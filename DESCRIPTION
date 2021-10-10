@@ -1,0 +1,16 @@
+Package: multiserver
+Title: Place Title 
+Version: 0.0.0.9000
+Authors@R: 
+    person("Sanjula", "Akalanka", , "sanjula.1998.au@gmail.com", role = c("aut", "cre"))
+Description: Update description.
+License: MIT + file LICENSE
+Encoding: UTF-8
+LazyData: true
+Roxygen: list(markdown = TRUE)
+RoxygenNote: 7.1.2
+Depends: 
+    R (>= 2.10)
+Suggests: 
+    testthat (>= 3.0.0)
+Config/testthat/edition: 3
